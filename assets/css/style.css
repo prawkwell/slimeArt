@@ -10,4 +10,9 @@
 
 .coolFont {
     font-family: 'Indie Flower', cursive;
+    font-size: 24px;
+}
+
+#listHead {
+color: red;
 }
